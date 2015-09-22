@@ -1,5 +1,7 @@
 _to the tune of Hallelujah by Leonard Cohen_
 
+
+```
 The data's scattered everyplace
 in every kind of database
 Excel, MySQL, and FileMaker
@@ -26,3 +28,4 @@ Our history will be dissolved
 with no one there to save the metadata
 
 metadata, metadata, metadata, metadata
+```
